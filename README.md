@@ -2,7 +2,7 @@
 
 A beautiful, responsive web application for searching and exploring movies and TV series using the OMDb API. Built with Next.js 14, TypeScript, and Tailwind CSS.
 
-![Movie Explorer Screenshot](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Movie+Explorer+Screenshot)
+Live at: https://movies-browse-next.vercel.app/
 
 ## ✨ Features
 
