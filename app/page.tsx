@@ -46,7 +46,7 @@ export default function HomePage() {
 
       try {
         const params = new URLSearchParams({
-          apikey: API_KEY,
+          apikey: API_KEY!,
           s: query,
           page: page.toString(),
         })
